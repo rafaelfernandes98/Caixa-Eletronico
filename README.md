@@ -17,17 +17,16 @@
 
 ```bash
 #clone este repositorio
-git clone https://github.com/user/repositorio.git
+git clone https://github.com/rafaelfernandes98/Caixa-Eletronico.git
 
 #acesse a pasta do repositório pelo terminal
 
-cd caixaEletronico
+cd Caixa-Eletronico
 
 #instalando dependencias
 npm install
 
 #execute a aplicação
-
 npm start
 
 ```
